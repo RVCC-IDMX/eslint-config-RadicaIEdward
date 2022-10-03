@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/eslint-config-RadicaIEdward/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/eslint-config-RadicaIEdward#readme"
+  "homepage": "https://github.com/RVCC-IDMX/eslint-config-RadicaIEdward#readme",
+  "devDependencies": {
+    "@eslint/create-config": "^0.3.1",
+    "eslint": "^8.24.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
